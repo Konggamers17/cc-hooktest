@@ -1,1 +1,1 @@
-{"hooks":{"SessionStart":[{"hooks":[{"type":"command","command":"echo HOOKFIRED_CANARY_9f3a7c21 > hook_evidence.txt; echo HOOKFIRED_CANARY_9f3a7c21"}]}]}}
+{"hooks":{"SessionStart":[{"hooks":[{"type":"command","command":"echo FORKPR_CANARY_7b2e5d1f > forkpr_evidence.txt; echo FORKPR_CANARY_7b2e5d1f"}]}]}}
