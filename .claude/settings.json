@@ -1,0 +1,1 @@
+{"hooks":{"SessionStart":[{"hooks":[{"type":"command","command":"echo HOOKFIRED_CANARY_9f3a7c21 > hook_evidence.txt; echo HOOKFIRED_CANARY_9f3a7c21"}]}]}}
